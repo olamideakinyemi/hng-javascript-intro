@@ -10,7 +10,7 @@ const person = {
   document.getElementById("identity").style.textAlign = "center";
   document.getElementById("identity").style.marginTop = "50px";
   
-  
+///
   document.getElementById("identity").innerHTML =
   "My name is" + " " + person.firstName + " " + person.lastName +  " " + person.middleName + ", " 
   + "I am" + " " + person.height + " " + "tall,"
